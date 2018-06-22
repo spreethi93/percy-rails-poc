@@ -1,0 +1,9 @@
+development:
+  PERCY_TOKEN=e1588a2f77e7557ceddd550cfae6bf3681dc2b5e1d18d52b3a8ff2c3ee4fadb7
+  PERCY_PROJECT=spreethi93/percy-rails-poc
+production:
+  PERCY_TOKEN=e1588a2f77e7557ceddd550cfae6bf3681dc2b5e1d18d52b3a8ff2c3ee4fadb7
+  PERCY_PROJECT=spreethi93/percy-rails-poc
+test:
+  PERCY_TOKEN=e1588a2f77e7557ceddd550cfae6bf3681dc2b5e1d18d52b3a8ff2c3ee4fadb7
+  PERCY_PROJECT=spreethi93/percy-rails-poc
