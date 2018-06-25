@@ -23,8 +23,6 @@ end
 gem 'jquery-rails'
 gem 'percy-capybara'
 gem 'test-unit', '3.1.7'
-gem "rspec", '~> 3.0.0'
-
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
